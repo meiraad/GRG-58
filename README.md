@@ -1,7 +1,7 @@
 # GRG-58
 
 1. Step function state machine is titled GRG-55, here https://eu-west-2.console.aws.amazon.com/states/home?region=eu-west-2#/statemachines
-  Here's its graph: 
+  Here's its graph: ![image](https://user-images.githubusercontent.com/43206011/143496063-4ac3ccee-5767-445b-8c28-f1210b596a7e.png)
   
 2. Start execution, using input:
     {
